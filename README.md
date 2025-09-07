@@ -1,3 +1,5 @@
+# Contact me on Telegram for any scripting or automation tool @ https://t.me/iampopg
+
 # Amazon Validator GUI
 
 A professional desktop application for Amazon account validation with advanced features and real-time processing.
