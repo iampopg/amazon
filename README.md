@@ -1,3 +1,6 @@
+
+# Contact me on Telegram for any scripting or automation tool @ https://t.me/iampopg
+
 # Amazon Validator GUI
 
 A professional desktop application for Amazon account validation with advanced features and real-time processing.
@@ -6,7 +9,7 @@ A professional desktop application for Amazon account validation with advanced f
 
 ### Getting Started
 
-1. **Launch** the executable file (`gui_main.exe`)
+1. **Launch** the executable file (`app.exe`), MD5: 56bc46e9eb885e74b7d688a83db27b6a
 2. **Configure Settings**: Adjust threads, timeouts, and file paths in the Settings tab
 3. **Start Validation**: Choose Email or Mobile tab and begin validation
 
