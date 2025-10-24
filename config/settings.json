@@ -1,5 +1,5 @@
 {
-  "INPUT_FILE_PATH": "emails_or_numbers.txt",
+  "INPUT_FILE_PATH": "input/amazon_emails.txt",
   "VALID_OUTPUT_FILE": "Valid.txt",
   "INVALID_OUTPUT_FILE": "Invalid.txt",
   "UNKNOWN_OUTPUT_FILE": "Unknown.txt",
@@ -9,7 +9,6 @@
   "USE_PROXIES": false,
   "PROXY_FILE_PATH": "config/proxies.txt",
   "PROXY_CHECK_TIMEOUT": 10,
-  "PROXY_CHECK_URL": "https://www.amazon.in",
   
   "NUM_THREADS": 60,
 
