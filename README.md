@@ -1,4 +1,3 @@
-
 # Contact me on Telegram for any scripting or automation tool @ https://t.me/iampopg
 
 # Amazon Validator GUI
